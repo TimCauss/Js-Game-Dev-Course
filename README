@@ -14,4 +14,12 @@ Create a style.css currently used to set the the canvas style (position, borders
 
 Day2 : 24/05/2023
 Adding somes images (sprites and assets)
-create an script.js
+create an empty script.js file
+create a canvas in javascript for setting up our gaming level
+Import the player image
+create a function for setting up the animation
+combined calcul and method to make animation works
+create animationStates object to store animation assets datas
+create a animationStates function to calcul and store positionX and positionY in animation state array.
+
+--Time code: 39:37
